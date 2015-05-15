@@ -1,0 +1,16 @@
+{
+  "name": "tweetMyInvite",
+  "version": "0.0.1",
+  "description": "Retweet and get an invite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kbouzidi",
+  "license": "MIT",
+  "dependencies": {
+    "ntwitter": "^0.5.0",
+    "socket.io": "^1.3.5",
+    "tweeter": "0.0.4"
+  }
+}

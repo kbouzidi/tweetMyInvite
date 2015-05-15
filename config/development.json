@@ -1,0 +1,11 @@
+{
+    "protocol": "http://",
+    "host": "localhost",
+    "port": "1337",
+    "twitter": {
+        "consumer_key": "l6MLFPwgtmS4FraqsxheNbVXv",
+        "consumer_secret": "Ijkc7VUUlSzUUeRg7cLeuc0s8YfIO4FHQHMlQSF9ThkC7WjQhC",
+        "access_token_key": "89424782-oCQpdKi5VVoQOdzLOfdePfW78sDv32UG9byAaHKzk",
+        "access_token_secret": "AyhVbAgajmHfbqdF4q768sm433oCRQWFJ1VOpByeFxOwN"
+    }
+}
